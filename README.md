@@ -35,7 +35,7 @@ NOTE :
 We provide office dataset.
   * .\dataset\office.train, office.test and office.ii
   *  Each line is a user with her/his positive interactions with items: userID \ itemID \ ratings .
-  *  Each user has more than 10 associated actions.
+  *  Each user has more than 5 associated actions.
 
 ## Baselines
 The list of available models in EAGCN, along with their paper citations, are shown below:
