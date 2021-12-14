@@ -43,7 +43,8 @@ The list of available models in EAGCN, along with their paper citations, are sho
 | General Recommender | Paper                                                                                                         |
 |---------------------|---------------------------------------------------------------------------------------------------------------|
 | BPRMF               | Steffen Rendle et al., BPR: Bayesian Personalized Ranking from Implicit Feedback. UAI 2009.                   |
-| ENMF                | Chong Chen al., Efficient neural matrix factorization without sampling forrecommendation. Trans 2020.           |
-| WRMF                | Yifan Hu,  al., Collaborative filtering for implicit feedback datasets. ICDM 2020.           |
+| ENMF                | Chong Chen al., Efficient neural matrix factorization without sampling forrecommendation. Trans 2020.         |
+| WRMF                | Yifan Hu,  al., Collaborative filtering for implicit feedback datasets. ICDM 2020.                            |
 | NGCF                | Xiang Wang, et al., Neural Graph Collaborative Filtering. SIGIR 2019.                                         |
 | LightGCN            | Xiangnan He, et al., LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. SIGIR 2020.|
+| BSPR                | Bin Wu and Yangdong Ye. BSPR: basket-sensitive personalized ranking for product recommendation. Sci 2020.|
